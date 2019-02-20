@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Metadata generated with CatMDEdit version 5.0-->
 <gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco"
     xmlns:gmd="http://www.isotc211.org/2005/gmd"
     xmlns:gml="http://www.opengis.net/gml"
@@ -46,7 +45,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2018-05-16T20:44:15</gco:DateTime>
+        <gco:DateTime>2019-02-19T17:35:07</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -189,14 +188,14 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Ray Roble</gco:CharacterString>
+                                <gco:CharacterString>Roble, Ray </gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - High Altitude Observatory - Geospace Frontiers Section </gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:positionName>
                                 <gco:CharacterString>Geospace Frontiers Section - High Altitude Observatory
-                                                                    </gco:CharacterString>
+                                                                                </gco:CharacterString>
                             </gmd:positionName>
                             <gmd:role>
                                 <gmd:CI_RoleCode
@@ -224,7 +223,7 @@
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Hight Altitude Observatory
-                                                        </gco:CharacterString>
+                                                                    </gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:positionName gco:nilReason="missing"/>
                             <gmd:role>
@@ -259,12 +258,27 @@
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Stan Solomon</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:positionName gco:nilReason="missing"/>
+                            <gmd:role>
+                                <gmd:CI_RoleCode
+                                    codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
                 <gco:CharacterString>The High Altitude Observatory at the National Center for Atmospheric Research has developed a series of numeric simulation models of the Earth's upper atmosphere, including the upper Stratosphere, Mesosphere, and Thermosphere. The Thermospheric General Circulation Models (TGCM's) are three-dimensional, time-dependent models of the EARTH's neutral upper atmosphere. The models use a finite differencing technique to obtain a self-consistent solution for the coupled, nonlinear equations of hydrodynamics, thermodynamics, continuity of the neutral gas and for the coupling between the dynamics and the composition.
-                                      
-For full informaiton about the dataset and the associated project, please visit: http://www.hao.ucar.edu/modeling/tgcm/index.php</gco:CharacterString>
+                                              
+        For full informaiton about the dataset and the associated project, please visit: http://www.hao.ucar.edu/modeling/tgcm/index.php</gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode
@@ -302,7 +316,7 @@ For full informaiton about the dataset and the associated project, please visit:
                         <gco:CharacterString>Stan Solomon</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>High Altitude Observatory</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:positionName gco:nilReason="missing"/>
                     <gmd:contactInfo>
@@ -318,7 +332,7 @@ For full informaiton about the dataset and the associated project, please visit:
                     </gmd:contactInfo>
                     <gmd:role>
                         <gmd:CI_RoleCode
-                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
@@ -328,7 +342,7 @@ For full informaiton about the dataset and the associated project, please visit:
                         <gco:CharacterString>Art Richmond</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>High Altitude Observatory</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:positionName gco:nilReason="missing"/>
                     <gmd:contactInfo>
@@ -344,7 +358,7 @@ For full informaiton about the dataset and the associated project, please visit:
                     </gmd:contactInfo>
                     <gmd:role>
                         <gmd:CI_RoleCode
-                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
@@ -354,7 +368,7 @@ For full informaiton about the dataset and the associated project, please visit:
                         <gco:CharacterString>Hanli Liu</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>High Altitude Observatory</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:positionName gco:nilReason="missing"/>
                     <gmd:contactInfo>
@@ -370,7 +384,7 @@ For full informaiton about the dataset and the associated project, please visit:
                     </gmd:contactInfo>
                     <gmd:role>
                         <gmd:CI_RoleCode
-                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
@@ -380,7 +394,7 @@ For full informaiton about the dataset and the associated project, please visit:
                         <gco:CharacterString>Gang Lu</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>High Altitude Observatory</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:positionName gco:nilReason="missing"/>
                     <gmd:contactInfo>
@@ -396,7 +410,7 @@ For full informaiton about the dataset and the associated project, please visit:
                     </gmd:contactInfo>
                     <gmd:role>
                         <gmd:CI_RoleCode
-                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
@@ -406,7 +420,7 @@ For full informaiton about the dataset and the associated project, please visit:
                         <gco:CharacterString>Astrid Maute</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
-                        <gco:CharacterString>High Altitude Observatory</gco:CharacterString>
+                        <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
                     </gmd:organisationName>
                     <gmd:positionName gco:nilReason="missing"/>
                     <gmd:contactInfo>
@@ -422,7 +436,7 @@ For full informaiton about the dataset and the associated project, please visit:
                     </gmd:contactInfo>
                     <gmd:role>
                         <gmd:CI_RoleCode
-                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+                            codeList="./resources/codeList.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
@@ -614,3 +628,4 @@ For full informaiton about the dataset and the associated project, please visit:
         </gmd:MD_Distribution>
     </gmd:distributionInfo>
 </gmd:MD_Metadata>
+<!--Metadata generated with CatMDEdit version 5.0-->
