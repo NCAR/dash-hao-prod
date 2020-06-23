@@ -12,9 +12,9 @@ Files contain metadata in a standardized, machine-readable format, and conform t
 
 https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.pdf
 
-## HOA Completeness Graph
+## HAO Completeness Graph
 
-![HOA Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/HOA/barcharts/hao.png)
+![HAO Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/HOA/barcharts/hao.png)
 
 
 ## Publisher Information
