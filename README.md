@@ -14,6 +14,10 @@ https://service.ncddc.noaa.gov/rdn/www/metadata-standards/documents/MD-Metadata.
 
 ## HAO Completeness Graph
 
+![GCMD Keywords](https://github.com/NCAR/dash-hao-prod//blob/21d2803ccb26484fae1f3c284cac0fab0a67c19f/hao_gcmd.txt)
+
+![GCMD Level Counts](https://github.com/NCAR/dash-hao-prod//blob/21d2803ccb26484fae1f3c284cac0fab0a67c19f/hao_gcmd_counts_levels.txt#L11)
+
 ![HAO Completeness Graph](https://github.com/NCAR/dash-eol-prod/blob/master/actions/HOA/barcharts/hao.png)
 
 
