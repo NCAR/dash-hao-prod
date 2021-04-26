@@ -13,9 +13,9 @@ from collections import Counter
 
 
 path1 = '.'
-if(path.exists("rda_gcmd.txt")):
-    os.remove("rda_gcmd.txt")
-fo = open("rda_gcmd.txt", "w+")
+if(path.exists("hao_gcmd.txt")):
+    os.remove("hao_gcmd.txt")
+fo = open("hao_gcmd.txt", "w+")
 
 for filename in os.listdir(path1):
     if not filename.endswith('.xml'): continue
@@ -34,7 +34,7 @@ level4 = 0
 level5 = 0
 level6 = 0
 
-# with open('rda_gcmd.txt') as f:
+# with open('hao_gcmd.txt') as f:
 #     seen = set()
 #     for line in f:
 #         line_lower = line.lower()
@@ -43,12 +43,12 @@ level6 = 0
 #         else:
 #             seen.add(line_lower)
 
-if(path.exists("rda_gcmd_counts_levels.txt")):
-    os.remove("rda_gcmd_counts_levels.txt")
+if(path.exists("hao_gcmd_counts_levels.txt")):
+    os.remove("hao_gcmd_counts_levels.txt")
 
-sys.stdout = open("rda_gcmd_counts_levels.txt", "w")
+sys.stdout = open("hao_gcmd_counts_levels.txt", "w")
 
-with open('rda_gcmd.txt') as f:
+with open('hao_gcmd.txt') as f:
      c=Counter(c.strip().lower() for c in f if c.strip()) #for case-insensitive search
      for line in c:
          if c[line]>1:
