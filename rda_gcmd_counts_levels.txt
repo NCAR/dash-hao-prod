@@ -1,0 +1,16 @@
+earth science > atmosphere > atmospheric winds > surface winds Count: 4 Level 4
+
+earth science > sun-earth interactions > solar activity > corona Count: 2 Level 4
+
+earth science > sun-earth interactions > solar activity > corona holes Count: 2 Level 4
+
+earth science > sun-earth interactions > solar activity > coronal mass ejections Count: 2 Level 4
+
+sot > solar optical telescope (hinode) Count: 3 Level 2
+
+Level 1: 0
+Level 2: 1
+Level 3: 0
+Level 4: 4
+Level 5: 0
+Level 6: 0
