@@ -43,7 +43,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2023-27-02T15:41:28</gco:DateTime>
+        <gco:DateTime>2023-02-27T15:41:28</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
